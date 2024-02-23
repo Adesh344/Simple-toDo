@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(21, 21, 21);
+    color:white
+}
+form{
+   text-align: center;
+}
+
+.dataItem{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
